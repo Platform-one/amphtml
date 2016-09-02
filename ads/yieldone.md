@@ -3,7 +3,7 @@
 
  ## Example
  ---
-
+```html
      <amp-ad
       width="320"
       height="50"
@@ -12,7 +12,7 @@
       data-pid="31480"
       >
       </amp-ad>
-
+```
 
  ## Configuration
 ---
